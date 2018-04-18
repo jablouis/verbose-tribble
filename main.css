@@ -1,0 +1,21 @@
+.main-title{text-align: left;}
+
+.right{float: right!important;}
+
+.btn {padding: 15px; margin: auto; cursor: pointer; border-radius: 10px; box-shadow: none; border: 1px solid ; font-size: 12px!important;}
+
+.btn-sm {padding: 7px; margin: auto; cursor: pointer; border-radius: 1px; box-shadow: none; border: 1px solid ; font-size: 10px!important;}
+
+#form-box {width: 100%; height: 100%; position: absolute; top: 0; left: 0; background-image: url("../img/bg.png"); background-repeat: no-repeat; background-position: center ; background-size:1950px ;display: none;}
+
+.form-box {width: 350px; min-height: 250px; border: 1px solid #BFBFBF; background-color: #BFBFBF; padding: 10px; margin: 10% auto;}
+
+.input-box {width: 100%; margin: 3px auto!important; padding: 2px;}
+
+.input {width: 97%; min-height: 40px; padding: 3px; border: 1px solid #BFBFBF;}
+
+.card {width: 250px; height: 113px; float: left; margin: 5px; padding: 4px; border: 1px solid #BFBFBF; background-color: #97C9F9;}
+
+.card .title {font-weight: 700; font-size: 17px; text-align: center;}
+
+.card h5 {padding: 5px; margin: 2px;}

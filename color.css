@@ -1,0 +1,72 @@
+/*Color*/
+.white {color: #FFFFFF!important;}
+
+.main-color {color: #337d49!important;}
+
+.red {color: #FF0000!important;}
+
+.green {color: #016436!important;}
+
+.light-green {color: #38a535!important;}
+
+.lighter-green {color: #ADE8AC!important;}
+
+.blue {color: #004057!important;}
+
+.c-r-blue {color: #6f818f!important;}
+
+.black {color: #000000!important;}
+
+.orange {color: #D45500!important;}
+
+.grey {color: #999999!important;}
+
+.brown {color: #655545!important;}
+
+/*Background color*/
+
+.main-color-bg {color: #FFFFFF!important; background-color: #38a535!important;}
+
+.white-bg {color: #000000!important;background-color: #FFFFFF!important;}
+		
+.red-bg {color: #FFFFFF!important;background-color: #FF0000!important;}
+
+.warm-red-bg {color: #FFFFFF!important;background-color: #FA3D13!important;}
+		
+.green-bg {color: #FFFFFF!important; background-color: #016436 !important;}
+
+.light-green-bg {color: #FFFFFF!important; background-color: #38a535!important;}
+
+.lighter-green-bg {color: #443B3B!important; background-color: #ADE8AC!important;}
+
+.blue-bg {color: #FFFFFF!important; background-color: #004057!important;}
+
+.c-r-blue-bg {color: #FFFFFF!important; background-color: #6f818f!important;}
+
+.warm-blue-bg {color: #FFFFFF!important; background-color: #3B9FC3!important;}
+
+.orange-bg {color: #000000!important; background-color: #DE461D!important;}
+
+.grey-bg {color: #FFFFFF!important; background-color: #999999!important;}
+
+.black-grey-bg {color: #000000!important; background-color: #999999!important;}
+
+.dark-grey-bg {color: #000000!important; background-color: #333333!important;}
+
+.black-bg {color: #ffffff!important; background-color: #000000!important;}
+
+.orange-black-bg {color: #DE461D!important; background-color: #000000!important;}
+
+.black-orange-bg {color: #000000!important; background-color: #DE461D!important;}
+
+.light-purple-bg {background-color: #B98A8C!important;}
+
+.brown-bg{background-color: #655545!important;}
+
+/* Border*/
+
+.orange-border{color: #DE461D!important; border-color: #DE461D!important;}
+
+.black-border{border-color: #000000!important;}
+
+.no-border {border: none!important;}
